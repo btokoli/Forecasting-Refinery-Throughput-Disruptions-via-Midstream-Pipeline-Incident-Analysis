@@ -5,3 +5,4 @@ scikit-learn
 great-expectations
 mlflow
 ipykernel
+seaborn
