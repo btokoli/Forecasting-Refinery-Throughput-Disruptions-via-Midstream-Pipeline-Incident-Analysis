@@ -6,3 +6,6 @@ great-expectations
 mlflow
 ipykernel
 seaborn
+geopandas
+shapely
+contextily
