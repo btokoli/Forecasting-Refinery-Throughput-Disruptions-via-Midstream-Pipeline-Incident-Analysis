@@ -9,3 +9,4 @@ seaborn
 geopandas
 shapely
 contextily
+lightgbm
