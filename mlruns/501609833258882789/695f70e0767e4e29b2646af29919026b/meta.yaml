@@ -1,0 +1,14 @@
+artifact_uri: /Users/mac/Documents/MySchoolDocs/PERSONAL/JOB APPLICATIONS/ENERGY_PROJECT/mlruns/501609833258882789/695f70e0767e4e29b2646af29919026b/artifacts
+end_time: 1762466446261
+entry_point_name: ''
+experiment_id: '501609833258882789'
+lifecycle_stage: active
+run_id: 695f70e0767e4e29b2646af29919026b
+run_name: resilient-stag-419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762466445504
+status: 3
+tags: []
+user_id: mac

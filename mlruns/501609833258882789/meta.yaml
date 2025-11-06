@@ -1,0 +1,6 @@
+artifact_location: /Users/mac/Documents/MySchoolDocs/PERSONAL/JOB APPLICATIONS/ENERGY_PROJECT/mlruns/501609833258882789
+creation_time: 1762465183188
+experiment_id: '501609833258882789'
+last_update_time: 1762465183188
+lifecycle_stage: active
+name: xgboost_optuna_refinery

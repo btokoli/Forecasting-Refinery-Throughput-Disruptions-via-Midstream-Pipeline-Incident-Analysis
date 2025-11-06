@@ -1,0 +1,14 @@
+artifact_uri: /Users/mac/Documents/MySchoolDocs/PERSONAL/JOB APPLICATIONS/ENERGY_PROJECT/mlruns/501609833258882789/0cafa9691ef04636a1d9e22f5169c04e/artifacts
+end_time: 1762466431871
+entry_point_name: ''
+experiment_id: '501609833258882789'
+lifecycle_stage: active
+run_id: 0cafa9691ef04636a1d9e22f5169c04e
+run_name: clean-hog-802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762466431510
+status: 3
+tags: []
+user_id: mac
