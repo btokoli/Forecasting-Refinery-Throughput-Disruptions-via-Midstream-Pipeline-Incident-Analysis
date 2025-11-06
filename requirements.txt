@@ -10,3 +10,5 @@ geopandas
 shapely
 contextily
 lightgbm
+tensorflow
+optuna
