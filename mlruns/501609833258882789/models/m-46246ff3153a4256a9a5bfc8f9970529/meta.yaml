@@ -1,0 +1,10 @@
+artifact_location: /Users/mac/Documents/MySchoolDocs/PERSONAL/JOB APPLICATIONS/ENERGY_PROJECT/mlruns/501609833258882789/models/m-46246ff3153a4256a9a5bfc8f9970529/artifacts
+creation_timestamp: 1762467211724
+experiment_id: '501609833258882789'
+last_updated_timestamp: 1762467219358
+model_id: m-46246ff3153a4256a9a5bfc8f9970529
+model_type: null
+name: model
+source_run_id: 68035c86cc5a4a0e8aa3396e39389c8e
+status: 2
+status_message: null

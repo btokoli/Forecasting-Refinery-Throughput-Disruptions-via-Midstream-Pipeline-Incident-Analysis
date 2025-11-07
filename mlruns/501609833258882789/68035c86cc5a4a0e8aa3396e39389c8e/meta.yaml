@@ -1,0 +1,14 @@
+artifact_uri: /Users/mac/Documents/MySchoolDocs/PERSONAL/JOB APPLICATIONS/ENERGY_PROJECT/mlruns/501609833258882789/68035c86cc5a4a0e8aa3396e39389c8e/artifacts
+end_time: 1762467219364
+entry_point_name: ''
+experiment_id: '501609833258882789'
+lifecycle_stage: active
+run_id: 68035c86cc5a4a0e8aa3396e39389c8e
+run_name: best_xgboost_model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762467211621
+status: 3
+tags: []
+user_id: mac

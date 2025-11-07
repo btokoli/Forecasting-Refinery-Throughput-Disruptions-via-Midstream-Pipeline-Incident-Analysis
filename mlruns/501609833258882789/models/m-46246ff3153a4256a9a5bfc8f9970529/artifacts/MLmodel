@@ -1,0 +1,22 @@
+artifact_path: /Users/mac/Documents/MySchoolDocs/PERSONAL/JOB APPLICATIONS/ENERGY_PROJECT/mlruns/501609833258882789/models/m-46246ff3153a4256a9a5bfc8f9970529/artifacts
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.11.13
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBRegressor
+    model_format: xgb
+    xgb_version: 3.1.1
+mlflow_version: 3.5.1
+model_id: m-46246ff3153a4256a9a5bfc8f9970529
+model_size_bytes: 594348
+model_uuid: m-46246ff3153a4256a9a5bfc8f9970529
+prompts: null
+run_id: 68035c86cc5a4a0e8aa3396e39389c8e
+utc_time_created: '2025-11-06 22:13:31.765750'
